@@ -1,6 +1,1 @@
-birth_year=input('birth year: ')
-print(type(birth_year))
-age=2025-int(birth_year)
-print(type(age))
-
-print(age)
+print("hello world ")
