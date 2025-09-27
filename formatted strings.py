@@ -6,3 +6,5 @@ print(message)
 
 course='python for beginners '  
 print(len(course))               # lenght of the string 
+
+
