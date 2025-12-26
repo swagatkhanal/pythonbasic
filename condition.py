@@ -8,9 +8,7 @@ elif is_cold:
     print("wear warm clothes ")
 else:
     print("it's a lovely day ")
-
-
-print("enjoy your day ")
+    print("enjoy your day ")
 
 
 
