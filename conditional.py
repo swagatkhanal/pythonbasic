@@ -9,4 +9,4 @@ if c<25:
     
 
 else:
-    print("c is grater than 25 ")
+    print("c is greater than 25 ")
